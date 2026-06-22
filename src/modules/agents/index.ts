@@ -1,0 +1,1 @@
+export { agentsRoutes } from './routes'
