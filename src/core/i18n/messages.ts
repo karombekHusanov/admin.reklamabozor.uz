@@ -17,7 +17,7 @@ export const messages = {
     pages: {
       dashboard: {
         title: 'Dashboard',
-        subtitle: 'Overview of the AdSpace marketplace.',
+        subtitle: 'Overview of the Reklama Bozor marketplace.',
       },
       users: {
         clients: {
@@ -61,7 +61,7 @@ export const messages = {
       uz: "O'zbekcha",
     },
     brand: {
-      name: 'AdSpace',
+      name: 'Reklama Bozor',
       tagline: 'Admin Panel',
     },
     users: {
@@ -283,7 +283,7 @@ export const messages = {
     pages: {
       dashboard: {
         title: 'Boshqaruv paneli',
-        subtitle: 'AdSpace bozori bo\'yicha umumiy ko\'rinish.',
+        subtitle: 'Reklama Bozor bozori bo\'yicha umumiy ko\'rinish.',
       },
       users: {
         clients: {
@@ -327,7 +327,7 @@ export const messages = {
       uz: "O'zbekcha",
     },
     brand: {
-      name: 'AdSpace',
+      name: 'Reklama Bozor',
       tagline: 'Admin panel',
     },
     users: {

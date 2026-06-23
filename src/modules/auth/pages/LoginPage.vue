@@ -41,7 +41,7 @@ async function onSubmit() {
           <LockKeyhole class="size-6" />
         </div>
         <CardTitle class="text-2xl">
-          AdSpace Admin
+          Reklama Bozor Admin
         </CardTitle>
         <CardDescription>
           Sign in with your administrator credentials
