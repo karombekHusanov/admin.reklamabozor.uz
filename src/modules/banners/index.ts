@@ -1,0 +1,1 @@
+export { bannersRoutes } from './routes'

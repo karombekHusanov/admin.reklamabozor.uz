@@ -1,4 +1,5 @@
 import type { RouteRecordRaw } from 'vue-router'
+import { bannersRoutes } from '@/modules/banners'
 import { categoriesRoutes } from '@/modules/categories'
 import { dashboardRoutes } from '@/modules/dashboard/routes'
 import { ordersRoutes } from '@/modules/orders'
@@ -13,6 +14,7 @@ export const shellRoutes: RouteRecordRaw[] = [
       ...usersRoutes,
       ...ordersRoutes,
       ...categoriesRoutes,
+      ...bannersRoutes,
     ],
   },
 ]

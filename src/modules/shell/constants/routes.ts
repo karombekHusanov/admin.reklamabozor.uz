@@ -6,6 +6,7 @@ export const ROUTES = {
   usersSellers: '/users/sellers',
   orders: '/orders',
   categories: '/categories',
+  banners: '/banners',
   profile: '/profile',
   login: '/login',
 } as const

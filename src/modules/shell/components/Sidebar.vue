@@ -2,6 +2,7 @@
 import {
   Brush,
   ChartLine,
+  GalleryHorizontalEnd,
   LayoutDashboard,
   PanelLeftClose,
   ShoppingCart,
@@ -37,6 +38,7 @@ const usersItems = computed(() => [
 const marketplaceItems = computed(() => [
   { to: ROUTES.orders, label: locale.t.nav.orders, icon: ShoppingCart },
   { to: ROUTES.categories, label: locale.t.nav.categories, icon: Tags },
+  { to: ROUTES.banners, label: locale.t.nav.banners, icon: GalleryHorizontalEnd },
 ])
 
 const activePath = computed(() => route.path)
